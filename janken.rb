@@ -97,4 +97,3 @@ janken = Janken.new
 
 # 下記の記述で、ジャンケンメソッドが起動される
 janken.pon(player.hand, enemy.hand)
-
